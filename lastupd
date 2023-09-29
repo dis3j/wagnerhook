@@ -1,1 +1,4 @@
-28.09.23
+                    ImGui::Text("28.09.2023 / Minor fixes");
+                    ImGui::Text(" ");
+                    ImGui::TextColored(ImVec4(0.3f, 0.3f, 1.0f, 1.0f), "[~]"); ImGui::SameLine(); ImGui::Text("Fixed FPS");
+                    ImGui::TextColored(ImVec4(1.0f, 0.3f, 0.3f, 1.0f), "[-]"); ImGui::SameLine(); ImGui::Text("Removed Debug Tab");
